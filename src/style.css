@@ -1,0 +1,28 @@
+#home,
+#aboutus,
+#contactus,
+#pagenotfound {
+    border: 1px solid black;
+    width: 250px;
+    height: 100px;
+    line-height: 100px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 150px;
+}
+
+#navbar {
+    margin-left: 1px;
+    margin-bottom: 5px;
+    width: 395px;
+    border: 1px solid black;
+    padding: 2px;
+    background-color: black;
+}
+
+#link1,
+#link2,
+#link3 {
+    padding: 20px;
+    color: orange;
+}
